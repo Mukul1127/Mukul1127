@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=for-the-badge&logo=appveyor&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&logoColor=white&color=2bbc8a)
 
 
 [![Mukul1127's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mukul1127&show_icons=true&theme=tokyonight)
