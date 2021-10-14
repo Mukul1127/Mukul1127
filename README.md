@@ -1,3 +1,7 @@
+![](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badgeColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Code-Html-informational?style=for-the-badge&logo=HTML5Color=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&logoColor=white&color=2bbc8a)
 
 
