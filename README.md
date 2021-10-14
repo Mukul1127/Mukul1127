@@ -1,11 +1,11 @@
-![](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&color=9cf)
+![](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&color=blue)
 
 
 ![](https://img.shields.io/badge/Code-HTML-informational?style=for-the-badge&logo=HTML5&Color=white&color=critical)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=for-the-badge&logo=CSS3&Color=white&color=blue)
 ![](https://img.shields.io/badge/Code-JS-informational?style=for-the-badge&logo=JSS&Color=white&color=yellow)
 
-![](https://img.shields.io/badge/Shell-PowerShell-informational?style=for-the-badge&logo=PowerShell&Color=white&color=informational)
+![](https://img.shields.io/badge/Shell-PowerShell-informational?style=for-the-badge&logo=PowerShell&Color=white&color=blue)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=GNU+Bash&Color=white&color=2bbc8a)
 
 
