@@ -1,1 +1,2 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api/tog-langs/?username=Mukul1127&show_icons=true&theme=radical" />
+[![Mukul1127's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mukul1127&show_icons=true&theme=radical)
+](https://github.com/anuraghazra/github-readme-stats)
