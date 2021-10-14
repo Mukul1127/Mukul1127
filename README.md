@@ -5,6 +5,9 @@
 ![](https://img.shields.io/badge/Code-CSS-informational?style=for-the-badge&logo=CSS3&Color=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JS-informational?style=for-the-badge&logo=JSS&Color=white&color=2bbc8a)
 
+![](https://img.shields.io/badge/Shell-PowerShell-informational?style=for-the-badge&logo=PowerShell&Color=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=GNU Bash&Color=white&color=2bbc8a)
+
 
 [![Mukul1127's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mukul1127&show_icons=true&theme=tokyonight)
 ](https://github.com/anuraghazra/github-readme-stats)
