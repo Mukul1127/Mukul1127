@@ -5,7 +5,7 @@
 ![](https://img.shields.io/badge/Code-CSS-informational?style=for-the-badge&logo=CSS3&Color=white&color=blue)
 ![](https://img.shields.io/badge/Code-JS-informational?style=for-the-badge&logo=JSS&Color=white&color=yellow)
 ![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=Python&Color=white&color=yellow)
-![](https://img.shields.io/badge/Code-"Roblox Lua"-informational?style=for-the-badge&logo=Lua&Color=white&color=blue)
+![](https://img.shields.io/badge/Code-Roblox%20Lua-informational?style=for-the-badge&logo=Lua&Color=white&color=blue)
 
 ![](https://img.shields.io/badge/Shell-PowerShell-informational?style=for-the-badge&logo=PowerShell&Color=white&color=blue)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=GNU+Bash&Color=white&color=2bbc8a)
