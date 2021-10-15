@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/OS-Windows-informational?logo=data:aHR0cHM6Ly93d3cucG5na2l0LmNvbS9wbmcvZnVsbC8xOS0xOTk4NjFfd2luZG93cy1sb2dvLXdoaXRlLXBuZy1waWN0dXJlLWxpYnJhcnktbGlicmFyeS13aW5kb3dzLnBuZw==&style=for-the-badge&color=blue)
+![](https://img.shields.io/badge/OS-Windows-informational?logo=aHR0cHM6Ly93d3cucG5na2l0LmNvbS9wbmcvZnVsbC8xOS0xOTk4NjFfd2luZG93cy1sb2dvLXdoaXRlLXBuZy1waWN0dXJlLWxpYnJhcnktbGlicmFyeS13aW5kb3dzLnBuZw==&style=for-the-badge&color=blue)
 
 
 ![](https://img.shields.io/badge/Code-HTML-informational?style=for-the-badge&logo=HTML5&Color=white&color=critical)
