@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/OS-Windows-informational?logo=https://www.pngkit.com/png/full/19-199861_windows-logo-white-png-picture-library-library-windows.png&style=for-the-badge&color=blue)
+![](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&color=blue)
 
 
 ![](https://img.shields.io/badge/Code-HTML-informational?style=for-the-badge&logo=HTML5&Color=white&color=critical)
