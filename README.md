@@ -1,7 +1,3 @@
-Hi I'm Mukul And I'm An Inspiring Programmer!
-
-My Setup:
-
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
 
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
@@ -24,7 +20,6 @@ My Setup:
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://www.arduino.cc/)
 [![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)](https://www.raspberrypi.com/)
 
-Some Data About Me:
 
 [![Mukul1127's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mukul1127&show_icons=true&theme=monokai&hide_border=true)
 ](https://github.com/anuraghazra/github-readme-stats)
