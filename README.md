@@ -2,6 +2,8 @@
 
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 [![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
+[![Vite](https://img.shields.io/badge/Vite%20JS-0078D4?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![Astro](https://img.shields.io/badge/Astro%20JS-D14836?style=for-the-badge&logo=astro&logoColor=white)](https://astro.build/)
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
