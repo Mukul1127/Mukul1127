@@ -8,6 +8,7 @@
 [![Vite](https://img.shields.io/badge/Vite%20JS-0078D4?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![Astro](https://img.shields.io/badge/Astro%20JS-D14836?style=for-the-badge&logo=astro&logoColor=white)](https://astro.build/)
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
+[![Tauri](https://img.shields.io/badge/Tauri%20App-323330?style=for-the-badge&logo=tauri&logoColor=yellow)](https://tauri.app/)
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
