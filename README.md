@@ -6,7 +6,6 @@
 [![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Vite](https://img.shields.io/badge/Vite%20JS-0078D4?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
-[![Astro](https://img.shields.io/badge/Astro%20JS-D14836?style=for-the-badge&logo=astro&logoColor=white)](https://astro.build/)
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
 [![Tauri](https://img.shields.io/badge/Tauri%20App-323330?style=for-the-badge&logo=tauri&logoColor=yellow)](https://tauri.app/)
 
