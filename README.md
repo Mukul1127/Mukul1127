@@ -1,4 +1,4 @@
-![Welcome](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&animation=fadeIn&section=header&text=Mukul1127&fontSize=60)
+[![Welcome](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&animation=fadeIn&section=header&text=Mukul1127&fontSize=60)](https://github.com/kyechan99/capsule-render)
 
 ### OS
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
@@ -49,6 +49,5 @@
 [![CPU](https://img.shields.io/badge/AMD-FX--4350-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](https://www.amd.com/en/products/cpu/fx-4350)
 
 ## My Stats
-[![Mukul1127's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mukul1127&theme=dracula)](https://github-profile-summary-cards.vercel.app/)
-[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mukul1127&theme=dracula)](https://github-profile-summary-cards.vercel.app/)
-[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mukul1127&theme=dracula)](https://github-profile-summary-cards.vercel.app/)
+[![Mukul1127's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mukul1127&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mukul1127&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
