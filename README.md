@@ -8,10 +8,10 @@
 [![VSCodium](https://img.shields.io/badge/VSCodium-fff?style=for-the-badge&logo=VSCodium&logoColor=1389FD)](https://vscodium.com/)
 
 ### Tools
+[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Vite](https://img.shields.io/badge/Vite%20JS-0078D4?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
-[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
-[![Tauri](https://img.shields.io/badge/Tauri%20App-323330?style=for-the-badge&logo=tauri&logoColor=yellow)](https://tauri.app/)
+[![Tauri](https://img.shields.io/badge/Tauri-323330?style=for-the-badge&logo=tauri&logoColor=yellow)](https://tauri.app/)
 
 ### Coding Languages
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
