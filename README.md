@@ -28,9 +28,6 @@
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://drive.google.com/drive/)
 [![Cloudfare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)](https://www.cloudflare.com/)
 
-
-<!-- 
 ## My Stats
 [![Mukul1127's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mukul1127&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mukul1127&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
--->
