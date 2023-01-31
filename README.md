@@ -21,11 +21,10 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Python](https://img.shields.io/badge/Python-2b5b84?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
-[![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)](https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701)
+[![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)](https://aka.ms/terminal)
 [![GNU Bash](https://img.shields.io/badge/-Bash-1f425f.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTEyIDUxMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMCAxaDUxMnY1MTJIMHoiIGZpbGw9Im5vbmUiLz48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTQ0OSAxMDYgMjg4IDEwYTYxIDYxIDAgMCAwLTYzIDBMNjQgMTA2YTY0IDY0IDAgMCAwLTMyIDU1djE5MmMwIDIzIDEyIDQ0IDMxIDU2bDE2MiA5NmE2MSA2MSAwIDAgMCA2MyAwbDE2MS05NmMxOS0xMiAzMS0zMyAzMS01NlYxNjFjMC0yMi0xMi00NC0zMS01NXoiLz48cGF0aCBkPSJNNDQ5IDEwNiAyODggMTBhNjEgNjEgMCAwIDAtNjMgMEw2NCAxMDZhNjQgNjQgMCAwIDAtMzIgNTV2MTkyYzAgMjMgMTIgNDQgMzEgNTZsMTYyIDk2YTYxIDYxIDAgMCAwIDYzIDBsMTYxLTk2YzE5LTEyIDMxLTMzIDMxLTU2VjE2MWMwLTIyLTEyLTQ0LTMxLTU1ek0yMzEgNDk1IDY5IDM5OWMtMTYtOS0yNS0yNy0yNS00NlYxNjFjMC0xOCA5LTM2IDI1LTQ1bDE2Mi05NmE1MCA1MCAwIDAgMSA1MSAwbDE2MSA5NmMxNCA4IDIzIDIxIDI1IDM3LTUtMTItMTctMTUtMzEtN2wtMTUzIDk1Yy0xOSAxMS0zMyAyNC0zMyA0NnYxODljMCAxNCA1IDIzIDE0IDI1YTQ4IDQ4IDAgMCAxLTM0LTZ6IiBmaWxsPSIjMjgzMDM3Ii8+PHBhdGggZD0ibTQwNyAzNzItNDAgMjRjLTIgMS0yIDEtMiAzdjEwYzAgMSAxIDIgMiAxbDQwLTI1YzEgMCAyLTEgMi0zdi05YzAtMS0xLTItMi0xeiIgZmlsbD0iIzRkYTgyNSIvPjxwYXRoIGZpbGw9IndoaXRlIiBkPSJtMzIxIDI4M2MxLTEgMyAwIDMgMnYxNGM1LTIgMTEtMyAxNS0yIDEgMCAyIDIgMSAzbC0zIDEzLTEgMi0xIDFoLTFjLTItMS03LTItMTUgMnMtMTEgMTItMTEgMTdjMCA2IDMgOCAxNCA4IDE1IDAgMjIgNyAyMiAyMnMtOCAzMS0yMCA0MHYxNGwtMiA0LTggNWMtMiAxLTMgMC0zLTJ2LTEzYy03IDMtMTQgMy0xOCAyLTEtMS0yLTItMS0zbDMtMTMgMS0zaDJjNSAxIDExIDEgMTctMiA4LTQgMTMtMTIgMTMtMjAgMC03LTQtMTAtMTMtMTAtMTIgMC0yMy0yLTIzLTE5IDAtMTUgNy0yOSAxOS0zOXYtMTRsMi00IDgtNXoiLz48L3N2Zz4=)](https://www.gnu.org/software/bash/)
-[![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](http://git-scm.com/)
+[![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://gitforwindows.org/)
 
-[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://drive.google.com/drive/)
 [![Cloudfare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)](https://www.cloudflare.com/)
 
 ## My Stats
