@@ -25,6 +25,7 @@
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://gitforwindows.org/)
 
 [![Cloudfare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)](https://www.cloudflare.com/)
+[![Oracle](https://img.shields.io/badge/Oracle-2A2A2A?style=for-the-badge&logo=oracle&logoColor=red)](https://www.oracle.com/)
 
 ## My Stats
 <picture>
