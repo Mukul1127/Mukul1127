@@ -1,41 +1,39 @@
-[![Welcome](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&animation=fadeIn&section=header&text=Mukul1127&fontSize=60)](https://github.com/kyechan99/capsule-render)
+<kbd>$ cat README.md</kbd>
 
-## What I Use
-[![CPU](https://img.shields.io/badge/CPU-FX--4350-ED1C24?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNjUgMjY1Ij48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTIgMGgyNjN2MjYybC03My03MlY3Mkg3NXpNMCAxNjF2MTA0aDEwNGw3NS03NUg3NVY4NnoiLz48L3N2Zz4=)](https://www.amd.com/en/products/cpu/fx-4350)
-[![GPU](https://img.shields.io/badge/GPU-GTX%201050%20Ti-76B900?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNzIgMTgwIj48cGF0aCBmaWxsPSIjNzZiOTAwIiBkPSJNMTAxIDU0VjM3aDVjNDQtMSA3NCAzOCA3NCAzOHMtMzIgNDQtNjUgNDRsLTE0LTJWNjhjMTggMiAyMSA5IDMyIDI3bDIzLTIwcy0xNy0yMi00Ni0yMmwtOSAxbTAtNTR2MjRoNWM2Mi0yIDEwMiA1MSAxMDIgNTFzLTQ2IDU2LTk0IDU2bC0xMy0xdjE1aDExYzQ0IDAgNzctMjMgMTA4LTUwIDUgNSAyNyAxNSAzMSAxOWEyNzAgMjcwIDAgMCAxLTE0OSA0NXYyMWgxNzBWMEgxMDF6bTAgMTE3djEzYy00MS04LTUzLTUxLTUzLTUxczIwLTIyIDUzLTI1djE0Yy0xNy0yLTMxIDE0LTMxIDE0czggMjcgMzEgMzVNMjggNzdzMjQtMzYgNzMtNDBWMjRDNDcgMjkgMCA3NSAwIDc1czI3IDc3IDEwMSA4NHYtMTRjLTU0LTctNzMtNjgtNzMtNjh6Ii8+PC9zdmc+)](https://us.msi.com/Graphics-Card/GeForce-GTX-1050-Ti-GAMING-X-4G/Specification)
+---
 
-[![Windows 10](https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
+<div align="center">
+  <a href="https://github.com/kyechan99/capsule-render">
+    <img src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&animation=fadeIn&section=header&text=Mukul&fontSize=60">
+  </a>
 
-[![VSCodium](https://img.shields.io/badge/VSCodium-fff?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48ZGVmcz48bGluZWFyR3JhZGllbnQgaWQ9ImEiIHgxPSIyMDAiIHgyPSIyOTYuNyIgeTE9IjIxNC4zIiB5Mj0iMzA3LjYiIGdyYWRpZW50VHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTIwMCAtMjEzKSIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPjxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iIzYyQTBFQSIvPjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzFBNUZCNCIvPjwvbGluZWFyR3JhZGllbnQ+PC9kZWZzPjxwYXRoIGZpbGw9InVybCgjYSkiIGQ9Ik00OCAyYy0zIDItMyA2LTIgOSAxMSAxNSAxMyAyNyAxMiAzOC00IDE5LTEzIDIzLTIxIDIzcy02LTEyIDAtMTZjMy0yIDgtNCAxMS00YTYgNiAwIDEgMCAwLTEybC0xMSAyVjMxYy0yLTYtNi0xMi0xMy0xOGE2IDYgMCAwIDAtOSAxYy0yIDMtMiA3IDEgOSA2IDQgOCA4IDkgMTEgMCAzIDAgNi0yIDEwbC00IDE1LTEgN2MtNC00LTYtOS02LTE4YTYgNiAwIDAgMC0xMiAwYzAgMTEgMyAyMiAxMiAyOSA4IDcgMjggNSAyOCAxNyAwIDMgNSA1IDggNSA0IDAgOC0zIDgtNSAwLTE0IDE0LTIyIDM4LTIyYTYgNiAwIDEgMCAwLTEyaC01YzMtNiA0LTEzIDQtMjFhNiA2IDAgMCAwLTEzIDFjMSA5IDAgMTgtNyAyM2wtNyAyYTYyIDYyIDAgMCAwIDQtMjZjLTEtNS0xLTExIDEtMTUgMS0zIDUtNSAxMS01YTYgNiAwIDEgMCAwLTEyYy05IDAtMTUgNC0xOCA5TDU3IDRhNiA2IDAgMCAwLTktMnoiLz48L3N2Zz4=)](https://vscodium.com/)
-
-[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
-[![PNPM](https://img.shields.io/badge/pnpm-2f2f2f?style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+CjxzdmcgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJ4TWlkWU1pZCBtZWV0IiB2aWV3Qm94PSI3Ni41ODk4NzI0NDg5Nzk1OCA0NCAxNjQuMDA3NzU1MTAyMDQwNjggMTY0IiB3aWR0aD0iMTYwLjAxIiBoZWlnaHQ9IjE2MCI+PGRlZnM+PHBhdGggZD0iTTIzNy42IDk1TDE4Ny42IDk1TDE4Ny42IDQ1TDIzNy42IDQ1TDIzNy42IDk1WiIgaWQ9ImI0NXZkVEQ4aHMiPjwvcGF0aD48cGF0aCBkPSJNMTgyLjU5IDk1TDEzMi41OSA5NUwxMzIuNTkgNDVMMTgyLjU5IDQ1TDE4Mi41OSA5NVoiIGlkPSJhNDBXdHhJbDhkIj48L3BhdGg+PHBhdGggZD0iTTEyNy41OSA5NUw3Ny41OSA5NUw3Ny41OSA0NUwxMjcuNTkgNDVMMTI3LjU5IDk1WiIgaWQ9ImgyQ045QUVFcGUiPjwvcGF0aD48cGF0aCBkPSJNMjM3LjYgMTUwTDE4Ny42IDE1MEwxODcuNiAxMDBMMjM3LjYgMTAwTDIzNy42IDE1MFoiIGlkPSJkcXY1MTMzRzgiPjwvcGF0aD48cGF0aCBkPSJNMTgyLjU5IDE1MEwxMzIuNTkgMTUwTDEzMi41OSAxMDBMMTgyLjU5IDEwMEwxODIuNTkgMTUwWiIgaWQ9ImIxTHY3OXlwdm0iPjwvcGF0aD48cGF0aCBkPSJNMTgyLjU5IDIwNUwxMzIuNTkgMjA1TDEzMi41OSAxNTVMMTgyLjU5IDE1NUwxODIuNTkgMjA1WiIgaWQ9Imh5MUlaV3dMWCI+PC9wYXRoPjxwYXRoIGQ9Ik0yMzcuNiAyMDVMMTg3LjYgMjA1TDE4Ny42IDE1NUwyMzcuNiAxNTVMMjM3LjYgMjA1WiIgaWQ9ImFrUWZqeFFlcyI+PC9wYXRoPjxwYXRoIGQ9Ik0xMjcuNTkgMjA1TDc3LjU5IDIwNUw3Ny41OSAxNTVMMTI3LjU5IDE1NUwxMjcuNTkgMjA1WiIgaWQ9ImJkU3J3RTVwayI+PC9wYXRoPjwvZGVmcz48Zz48Zz48dXNlIHhsaW5rOmhyZWY9IiNiNDV2ZFREOGhzIiBvcGFjaXR5PSIxIiBmaWxsPSIjZjlhZDAwIiBmaWxsLW9wYWNpdHk9IjEiPjwvdXNlPjwvZz48Zz48dXNlIHhsaW5rOmhyZWY9IiNhNDBXdHhJbDhkIiBvcGFjaXR5PSIxIiBmaWxsPSIjZjlhZDAwIiBmaWxsLW9wYWNpdHk9IjEiPjwvdXNlPjwvZz48Zz48dXNlIHhsaW5rOmhyZWY9IiNoMkNOOUFFRXBlIiBvcGFjaXR5PSIxIiBmaWxsPSIjZjlhZDAwIiBmaWxsLW9wYWNpdHk9IjEiPjwvdXNlPjwvZz48Zz48dXNlIHhsaW5rOmhyZWY9IiNkcXY1MTMzRzgiIG9wYWNpdHk9IjEiIGZpbGw9IiNmOWFkMDAiIGZpbGwtb3BhY2l0eT0iMSI+PC91c2U+PC9nPjxnPjx1c2UgeGxpbms6aHJlZj0iI2IxTHY3OXlwdm0iIG9wYWNpdHk9IjEiIGZpbGw9IiNmZmZmZmYiIGZpbGwtb3BhY2l0eT0iMSI+PC91c2U+PC9nPjxnPjx1c2UgeGxpbms6aHJlZj0iI2h5MUlaV3dMWCIgb3BhY2l0eT0iMSIgZmlsbD0iI2ZmZmZmZiIgZmlsbC1vcGFjaXR5PSIxIj48L3VzZT48L2c+PGc+PHVzZSB4bGluazpocmVmPSIjYWtRZmp4UWVzIiBvcGFjaXR5PSIxIiBmaWxsPSIjZmZmZmZmIiBmaWxsLW9wYWNpdHk9IjEiPjwvdXNlPjwvZz48Zz48dXNlIHhsaW5rOmhyZWY9IiNiZFNyd0U1cGsiIG9wYWNpdHk9IjEiIGZpbGw9IiNmZmZmZmYiIGZpbGwtb3BhY2l0eT0iMSI+PC91c2U+PC9nPjwvZz48L3N2Zz4=)](https://pnpm.io/)
-[![Vite](https://img.shields.io/badge/Vite-2f2f2f?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTYgMjU3Ij48bGluZWFyR3JhZGllbnQgaWQ9ImEiIHgxPSItLjglIiB4Mj0iNTcuNiUiIHkxPSI3LjclIiB5Mj0iNzguNCUiPjxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiM0MUQxRkYiLz48c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNCRDM0RkUiLz48L2xpbmVhckdyYWRpZW50PjxsaW5lYXJHcmFkaWVudCBpZD0iYiIgeDE9IjQzLjQlIiB4Mj0iNTAuMyUiIHkxPSIyLjIlIiB5Mj0iODklIj48c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjRkZFQTgzIi8+PHN0b3Agb2Zmc2V0PSI4LjMlIiBzdG9wLWNvbG9yPSIjRkZERDM1Ii8+PHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjRkZBODAwIi8+PC9saW5lYXJHcmFkaWVudD48cGF0aCBmaWxsPSJ1cmwoI2EpIiBkPSJNMjU1IDM4IDEzNSAyNTNjLTMgNC05IDQtMTEgMEwxIDM4Yy0zLTUgMS0xMSA3LTEwbDEyMCAyMmE3IDcgMCAwIDAgMiAwbDExOC0yMmM2LTEgMTAgNSA3IDEwWiIvPjxwYXRoIGZpbGw9InVybCgjYikiIGQ9Ik0xODUgMCA5NiAxOGEzIDMgMCAwIDAtMiAzbC02IDkyYTMgMyAwIDAgMCA0IDNsMjUtNWMyLTEgNSAxIDQgM2wtNyAzN2MtMSAyIDEgNCA0IDNsMTUtNGMzLTEgNSAxIDQgM2wtMTEgNTdjLTEgNCA0IDYgNiAybDEtMiA3Mi0xNDRjMi0zLTEtNS0zLTVsLTI2IDVjLTIgMC00LTItMy00bDE2LTU4YzEtMi0xLTQtNC00WiIvPjwvc3ZnPg==)](https://vitejs.dev/)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-
-[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F97D6?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Python](https://img.shields.io/badge/Python-2b5b84?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-
-[![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)](https://aka.ms/terminal)
-[![GNU Bash](https://img.shields.io/badge/-Bash-1f425f.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTEyIDUxMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMCAxaDUxMnY1MTJIMHoiIGZpbGw9Im5vbmUiLz48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTQ0OSAxMDYgMjg4IDEwYTYxIDYxIDAgMCAwLTYzIDBMNjQgMTA2YTY0IDY0IDAgMCAwLTMyIDU1djE5MmMwIDIzIDEyIDQ0IDMxIDU2bDE2MiA5NmE2MSA2MSAwIDAgMCA2MyAwbDE2MS05NmMxOS0xMiAzMS0zMyAzMS01NlYxNjFjMC0yMi0xMi00NC0zMS01NXoiLz48cGF0aCBkPSJNNDQ5IDEwNiAyODggMTBhNjEgNjEgMCAwIDAtNjMgMEw2NCAxMDZhNjQgNjQgMCAwIDAtMzIgNTV2MTkyYzAgMjMgMTIgNDQgMzEgNTZsMTYyIDk2YTYxIDYxIDAgMCAwIDYzIDBsMTYxLTk2YzE5LTEyIDMxLTMzIDMxLTU2VjE2MWMwLTIyLTEyLTQ0LTMxLTU1ek0yMzEgNDk1IDY5IDM5OWMtMTYtOS0yNS0yNy0yNS00NlYxNjFjMC0xOCA5LTM2IDI1LTQ1bDE2Mi05NmE1MCA1MCAwIDAgMSA1MSAwbDE2MSA5NmMxNCA4IDIzIDIxIDI1IDM3LTUtMTItMTctMTUtMzEtN2wtMTUzIDk1Yy0xOSAxMS0zMyAyNC0zMyA0NnYxODljMCAxNCA1IDIzIDE0IDI1YTQ4IDQ4IDAgMCAxLTM0LTZ6IiBmaWxsPSIjMjgzMDM3Ii8+PHBhdGggZD0ibTQwNyAzNzItNDAgMjRjLTIgMS0yIDEtMiAzdjEwYzAgMSAxIDIgMiAxbDQwLTI1YzEgMCAyLTEgMi0zdi05YzAtMS0xLTItMi0xeiIgZmlsbD0iIzRkYTgyNSIvPjxwYXRoIGZpbGw9IndoaXRlIiBkPSJtMzIxIDI4M2MxLTEgMyAwIDMgMnYxNGM1LTIgMTEtMyAxNS0yIDEgMCAyIDIgMSAzbC0zIDEzLTEgMi0xIDFoLTFjLTItMS03LTItMTUgMnMtMTEgMTItMTEgMTdjMCA2IDMgOCAxNCA4IDE1IDAgMjIgNyAyMiAyMnMtOCAzMS0yMCA0MHYxNGwtMiA0LTggNWMtMiAxLTMgMC0zLTJ2LTEzYy03IDMtMTQgMy0xOCAyLTEtMS0yLTItMS0zbDMtMTMgMS0zaDJjNSAxIDExIDEgMTctMiA4LTQgMTMtMTIgMTMtMjAgMC03LTQtMTAtMTMtMTAtMTIgMC0yMy0yLTIzLTE5IDAtMTUgNy0yOSAxOS0zOXYtMTRsMi00IDgtNXoiLz48L3N2Zz4=)](https://www.gnu.org/software/bash/)
-[![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://gitforwindows.org/)
-
-[![Cloudfare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)](https://www.cloudflare.com/)
-[![Oracle](https://img.shields.io/badge/Oracle-2A2A2A?style=for-the-badge&logo=oracle&logoColor=red)](https://www.oracle.com/)
-
-## My Stats
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=Mukul1127&theme=dark&show_icons=true"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=Mukul1127&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=Mukul1127&show_icons=true" />
-</picture>
+  <b><i>A random coder who codes random things</i></b>
+  
+  ## Programming Languages
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,cs,java,py,vite,astro,p5js" />
+  </a>
+  
+  ## Tooling / IDEs
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,deno,bun,npm,yarn,pnpm,electron,tauri,vscodium,arduino,pycharm" />
+  </a>
+  
+  ## Setup
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,linux,git,github,githubactions,cloudflare,bash,powershell" />
+  </a>
+  
+  ## My Stats
+  <picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=Mukul1127&theme=dark&show_icons=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Mukul1127&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mukul1127&show_icons=true&hide_border=true&include_all_commits=true" />
+  </picture>
+</div>
