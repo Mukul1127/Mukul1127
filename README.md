@@ -2,11 +2,13 @@
 
 ---
 
-<a href="https://github.com/kyechan99/capsule-render">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=timeGradient&text=Hey,%20I'm%20Mukul&fontAlignY=39&animation=fadeIn">
-</a>
-
-<b><i>A random coder who codes random things in random programming languages at random times</i></b>
+<div align="center">
+  <a href="https://github.com/kyechan99/capsule-render">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=timeGradient&text=Hey,%20I'm%20Mukul&fontAlignY=39&animation=fadeIn">
+  </a>
+  <br />
+  <b><i>A random coder who codes random things in random programming languages at random times</i></b>
+</div>
 
 <h2>📚 Languages / Frameworks</h2>
 <a href="https://skillicons.dev">
