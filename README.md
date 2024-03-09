@@ -10,7 +10,7 @@
 
 <h2>📚 Languages / Frameworks</h2>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,cs,java,py,vite,astro,p5js" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,cs,java,py,vite,astro" />
 </a>
 
 <h2>🔧 Tooling / IDEs</h2>
