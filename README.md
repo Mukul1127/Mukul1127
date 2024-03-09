@@ -6,7 +6,7 @@
   <img src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&animation=fadeIn&section=header&text=Hey%2C%20I%27m%20Mukul&fontSize=60">
 </a>
 
-<b><i>A random coder who codes random things</i></b>
+<b><i>A random coder who codes random things in random programming languages at random times</i></b>
 
 <h2>📚 Languages / Frameworks</h2>
 <a href="https://skillicons.dev">
