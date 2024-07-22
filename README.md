@@ -12,12 +12,12 @@
 
 <h2>📚 Languages / Frameworks</h2>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,cs,java,py,vite,astro" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,cs,cpp,java,py,vite,astro" />
 </a>
 
 <h2>🔧 Tooling / IDEs</h2>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,deno,bun,npm,yarn,pnpm,electron,tauri,vscodium,arduino,pycharm" />
+  <img src="https://skillicons.dev/icons?i=nodejs,pnpm,tauri,vscodium,arduino,pycharm" />
 </a>
 
 <h2>💻 Setup</h2>
