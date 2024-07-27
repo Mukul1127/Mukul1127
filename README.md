@@ -1,6 +1,6 @@
 <kbd>$ cat README.md</kbd>
 
----
+<hr />
 
 <div align="center">
   <a href="https://github.com/kyechan99/capsule-render">
