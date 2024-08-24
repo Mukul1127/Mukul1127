@@ -17,7 +17,7 @@
 
 <h2>🔧 Tooling / IDEs</h2>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,pnpm,vscodium" />
+  <img src="https://skillicons.dev/icons?i=nodejs,pnpm,bun,vscodium" />
 </a>
 
 <h2>💻 Setup</h2>
