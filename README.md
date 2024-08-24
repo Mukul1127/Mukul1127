@@ -22,7 +22,7 @@
 
 <h2>💻 Setup</h2>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=windows,linux,git,github,githubactions,cloudflare,bash,powershell" />
+  <img src="https://skillicons.dev/icons?i=windows,arch,git,github,githubactions,cloudflare,bash,powershell" />
 </a>
 
 <h2>My Stats</h2>
