@@ -24,8 +24,3 @@
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=windows,arch,git,github,githubactions,cloudflare,bash,powershell" />
 </a>
-
-<h2>My Stats</h2>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mukul1127&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" />
-</a>
