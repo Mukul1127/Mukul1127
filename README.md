@@ -7,20 +7,20 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=timeGradient&text=Hey,%20I'm%20Mukul&fontAlignY=46&animation=fadeIn">
   </a>
   <br />
-  <b><i>A random coder who codes random things in random programming languages at random times</i></b>
+  <b><i>A random indian who likes to code</i></b>
 </div>
 
 <h2>📚 Languages / Frameworks</h2>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,c,cs,cpp,zig,java,kotlin,py,vite,astro,tauri" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,c,cs,cpp,zig,ts,tailwind,vite,astro,tauri" />
 </a>
 
 <h2>🔧 Tooling / IDEs</h2>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,pnpm,bun,vscodium" />
+  <img src="https://skillicons.dev/icons?i=bun,vscodium" />
 </a>
 
 <h2>💻 Setup</h2>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=windows,arch,git,github,githubactions,cloudflare,bash,powershell" />
+  <img src="https://skillicons.dev/icons?i=windows,git,github,githubactions,cloudflare,powershell" />
 </a>
