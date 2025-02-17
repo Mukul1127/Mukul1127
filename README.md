@@ -10,17 +10,6 @@
   <b><i>A random indian who likes to code</i></b>
 </div>
 
-<h2>📚 Languages / Frameworks</h2>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,c,cs,cpp,zig,ts,tailwind,vite,astro,tauri" />
-</a>
+### More info at: https://www.mookul.dev/
 
-<h2>🔧 Tooling / IDEs</h2>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=bun,vscodium" />
-</a>
-
-<h2>💻 Setup</h2>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=windows,git,github,githubactions,cloudflare,powershell" />
-</a>
+TL:DR - I'm too lazy to update this. Plus I spent a lot of time on that website and it's fancy.
