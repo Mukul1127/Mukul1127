@@ -13,3 +13,7 @@
 ### More info at: https://www.mookul.dev/
 
 TL:DR - I'm too lazy to update this. Plus I spent a lot of time on that website and it's fancy.
+
+---
+
+GPG Key instructions here: https://files.mookul.dev/README.md
