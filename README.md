@@ -16,4 +16,4 @@ TL:DR - I'm too lazy to update this. Plus I spent a lot of time on that website 
 
 ---
 
-GPG Key instructions here: https://files.mookul.dev/README.md
+GPG Key download here: https://files.mookul.dev/GPG/README.md
