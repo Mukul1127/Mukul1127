@@ -4,11 +4,6 @@
   </a>
 </div>
 
-### More info at [mookul.dev](https://www.mookul.dev).
-TL:DR - I'm too lazy to update this. Plus I spent a lot of time on that website and it's fancy looking.
-
-<br />
-
 ### GPG Key
 Retrieve via WKD:
 ```
