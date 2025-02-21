@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/kyechan99/capsule-render">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=timeGradient&text=Hey,%20I'm%20Mukul&fontAlignY=46&animation=fadeIn">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=timeGradient&text=Hey,%20I'm%20Mukul&fontAlignY=40&animation=fadeIn">
   </a>
 </div>
 
