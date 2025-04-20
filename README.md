@@ -7,8 +7,8 @@
 ### GPG Key
 Retrieve via WKD:
 ```
-gpg --locate-keys --auto-key-locate clear,nodefault,wkd mukul@mookul.dev
+gpg --locate-keys --auto-key-locate clear,nodefault,wkd mucookul@gmail.com
 ```
 
 Manual Download:
-https://keys.openpgp.org/vks/v1/by-fingerprint/9D697CD7A75B1CB30DD9B35F25A375B0624A1E52
+https://keys.openpgp.org/vks/v1/by-fingerprint/3587350C0C0679ACBC8B3C2B7214032B675FB44E
